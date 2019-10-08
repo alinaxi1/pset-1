@@ -2,11 +2,15 @@ p {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
+  width: 600px;
 }
 
 img {
   float: left;
   height: 500px;
   width: 700px;
+}
+
+td {
+  background-color: #fff7e6;
 }
