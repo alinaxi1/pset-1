@@ -9,3 +9,11 @@
 #femaledata{
   background-color: #f2e6ff;
 }
+
+#factpicture {
+  height: 430px;
+  width: 600px;
+  position: relative;
+  float: left;
+  left: 0px;
+}
